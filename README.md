@@ -1,0 +1,1 @@
+# EventGridTriggerLog2
